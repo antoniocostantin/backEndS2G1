@@ -1,6 +1,3 @@
-import exceptions.ArrayIdxException;
-import exceptions.Int1_10Num;
-
 import java.util.Random;
 import java.util.Scanner;
 
